@@ -12,7 +12,11 @@
   <li>Returns all fusions: <pre><code>GET /fusion</code></pre></li>
   <li>Returns searched fusions: <pre><code>GET /fusion/[Search]</code></pre></li>
 </ul>
-
+<h3>Weapon</h3>
+<ul>
+  <li>Returns all weapons: <pre><code>GET /weapon</code></pre></li>
+  <li>Returns searched weapons: <pre><code>GET /weapon/[Search]</code></pre></li>
+</ul>
 <h3>Type</h3>
 <ul>
   <li>Returns all types: <pre><code>GET /type</code></pre></li>
