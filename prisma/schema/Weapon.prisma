@@ -1,0 +1,13 @@
+model Weapon {
+  ID         Int        @id @default(autoincrement())
+  Name       String
+  Range      Range
+  Character Character[]
+  Fusions    Fusion[]
+}
+
+enum Range {
+  Melee @map("Melee")
+  Mid   @map("Mid Range")
+  Long  @map("Long Range")
+}
