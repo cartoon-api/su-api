@@ -4,6 +4,7 @@ import { CharacterModule } from './character/character.module';
 import { TypeModule } from './type/type.module';
 import { WeaponModule } from './weapon/weapon.module';
 import { FusionModule } from './fusion/fusion.module';
+import { PingModule } from './ping/ping.module';
 
 @Module({
   imports: [
@@ -12,6 +13,7 @@ import { FusionModule } from './fusion/fusion.module';
     TypeModule,
     WeaponModule,
     FusionModule,
+    PingModule,
   ],
   controllers: [],
   providers: [],

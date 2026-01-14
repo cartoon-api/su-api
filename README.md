@@ -28,7 +28,6 @@
   <li><a href="https://nodejs.org/en">NodeJS</a></li>
   <li><a href="https://docs.nestjs.com/first-steps">NestJS CLI</a></li>
   <li><a href="https://classic.yarnpkg.com/lang/en/docs/install">Yarn</a></li>
-  
 </ul>
 <h3>Install dependencies: </h3>
 <pre><code>yarn install</code></pre>
@@ -38,3 +37,5 @@
 <pre><code>yarn prisma db push</code></pre>
 <h3>Run API: </h3>
 <pre><code>yarn start</code></pre>
+<h1 align="center">Creator</h1>
+<p align="center"><a href="https://github.com/ALAN-MS-SU">ALAN-MS-SU</a></p>
